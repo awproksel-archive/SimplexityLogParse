@@ -23,4 +23,4 @@ Walking through the command:
 * (seriously, how many pipes can one command have? A LOT!)
 * lastly we only want to display the top results and `head -10` gives up the top 10 results
 
-Any questions? 
+Any questions? (except for the one how I ignored the requirement to skip internal IPs on the report)
